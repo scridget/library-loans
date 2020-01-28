@@ -14,4 +14,8 @@
         e.preventDefault();
         $("body").toggleClass("sb-sidenav-toggled");
     });
+
+    // var app = new Vue({
+    //     el: '#app'
+    // });
 })(jQuery);
